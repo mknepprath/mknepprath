@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm a Senior Software Engineer @ Walmart Labs who [tweets](https://twitter.com/mknepprath) and [plays games on my Switch](https://twitter.com/MKPlaysSwitch).
+
+![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)
 
 <!--
 **mknepprath/mknepprath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
