@@ -18,7 +18,7 @@ Other projects include making...
 - [games](http://tinymystery.club)
 
 ### Contact
-You can [email me](mailto:mknepprath@hey.com) or [@ me](https://twitter.com/mknepprath).
+Feel free to [email](mailto:mknepprath@hey.com) or [@ me](https://twitter.com/mknepprath).
 
 
 <!--
