@@ -1,5 +1,5 @@
 ### Hello! 
-I'm a Senior Software Engineer @ Walmart who [tweets](https://twitter.com/mknepprath) and [plays games on my Switch](https://twitter.com/MKPlaysSwitch).
+I'm a Staff Software Engineer @ Walmart who [tweets](https://twitter.com/mknepprath) and [plays games on my Switch](https://twitter.com/MKPlaysSwitch).
 
 [![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
