@@ -10,7 +10,7 @@ Check out what I'm up to on my website, where I [blog](https://www.mknepprath.co
 - [Code Should Breathe](https://www.mknepprath.com/writing/breathe)
 
 Other projects include making...
-- [bots](https://twitter.com/familiarlilt)
+- [bots](https://botsin.space/@lilt)
 - [comics](https://www.mknepprath.com/writing/sequential-art)
 - [apps](https://twitter.com/mknepprath/status/1279103014838702081)
 - [animations](https://twitter.com/mknepprath/status/959812218119512065)
@@ -18,7 +18,7 @@ Other projects include making...
 - [games](http://tinymystery.club)
 
 ### Contact
-Feel free to [email](mailto:mknepprath@hey.com) or [@ me](https://twitter.com/mknepprath).
+Feel free to [email](mailto:mknepprath@hey.com) or [@ me](https://mastodon.social/@mknepprath).
 
 
 <!--
