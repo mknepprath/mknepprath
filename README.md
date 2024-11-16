@@ -10,15 +10,15 @@ Check out what I'm up to on my website, where I [blog](https://www.mknepprath.co
 - [Code Should Breathe](https://www.mknepprath.com/writing/breathe)
 
 Other projects include making...
-- [bots](https://botsin.space/@lilt)
+- [bots](https://mastodon.social/@familiarlilt)
 - [comics](https://www.mknepprath.com/writing/sequential-art)
 - [apps](https://twitter.com/mknepprath/status/1279103014838702081)
 - [animations](https://twitter.com/mknepprath/status/959812218119512065)
-- [websites](http://culturallyirrelevant.net)
+- [websites](http://culturallyirrelevant.com)
 - [games](http://tinymystery.club)
 
 ### Contact
-Feel free to [email](mailto:mknepprath@hey.com) or [@ me](https://mastodon.social/@mknepprath).
+Feel free to [email](mailto:mknepprath@gmail.com) or [@ me](https://mastodon.social/@mknepprath).
 
 
 <!--
